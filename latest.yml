@@ -1,8 +1,8 @@
-version: 1.2.2
+version: 1.2.3
 files:
   - url: AI-Orchestrator-win-x64.exe
-    sha512: IvEQHFFDAs++8SrZAsW0XKWqDdhG3bFNEVma0PUOwbSMU+mUfqO1lh1zRVFsp+b+2Nl6NyLr53bPytZU4R4JJw==
-    size: 102430428
+    sha512: F+LCxGLL+upvCuJLXP6/2B4afp/7NasV46IHWrQEM6wXS2qNnjhHhiuybnBLqNLVhijD+oYJDNwWW24Lxpo5QA==
+    size: 102431781
 path: AI-Orchestrator-win-x64.exe
-sha512: IvEQHFFDAs++8SrZAsW0XKWqDdhG3bFNEVma0PUOwbSMU+mUfqO1lh1zRVFsp+b+2Nl6NyLr53bPytZU4R4JJw==
-releaseDate: '2026-07-26T03:20:13.596Z'
+sha512: F+LCxGLL+upvCuJLXP6/2B4afp/7NasV46IHWrQEM6wXS2qNnjhHhiuybnBLqNLVhijD+oYJDNwWW24Lxpo5QA==
+releaseDate: '2026-08-10T03:26:05.738Z'
